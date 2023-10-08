@@ -1,0 +1,114 @@
+[
+    {
+        "title": "LOADING REPORT",
+        "icon": "bi bi-file-earmark-text-fill",
+        "childrens": [
+            {
+                "title": "Subtitle 1",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 2",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 3",
+                "icon": "bi bi-circle"
+            }
+        ]
+    },
+    {
+        "title": "OPERATOR REPORT",
+        "icon": "bi bi-gear-fill",
+        "childrens": [
+            {
+                "title": "Region",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Time",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Blast Card",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Assets",
+                "icon": "bi bi-circle"
+            }
+        ]
+    },
+    {
+        "title": "QUALITY CONTROL",
+        "icon": "bi bi-patch-check-fill",
+        "childrens": [
+            {
+                "title": "Subtitle 1",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 2",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 3",
+                "icon": "bi bi-circle"
+            }
+        ]
+    },
+    {
+        "title": "PERFORMANCE ANALYSIS",
+        "icon": "bi bi-speedometer2",
+        "childrens": [
+            {
+                "title": "Subtitle 1",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 2",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 3",
+                "icon": "bi bi-circle"
+            }
+        ]
+    },
+    {
+        "title": "BLAST AUDITS",
+        "icon": "bi bi-gear-fill",
+        "childrens": [
+            {
+                "title": "Subtitle 1",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 2",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 3",
+                "icon": "bi bi-circle"
+            }
+        ]
+    },
+    {
+        "title": "SATEFY REPORTS",
+        "icon": "bi bi-shield-fill-plus",
+        "childrens": [
+            {
+                "title": "Subtitle 1",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 2",
+                "icon": "bi bi-circle"
+            },
+            {
+                "title": "Subtitle 3",
+                "icon": "bi bi-circle"
+            }
+        ]
+    }
+]
