@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dashboard/static/css/main.515a2de2.css",
+    "main.js": "/react-dashboard/static/js/main.13dae30a.js",
+    "static/media/Home-bg.png": "/react-dashboard/static/media/Home-bg.63bff5d3cd5ef20d9f12.png",
+    "static/media/imining-logo.png": "/react-dashboard/static/media/imining-logo.54b3c6e5020b4adbc492.png",
+    "index.html": "/react-dashboard/index.html",
+    "main.515a2de2.css.map": "/react-dashboard/static/css/main.515a2de2.css.map",
+    "main.13dae30a.js.map": "/react-dashboard/static/js/main.13dae30a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.515a2de2.css",
+    "static/js/main.13dae30a.js"
+  ]
+}
